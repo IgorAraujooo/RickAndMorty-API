@@ -1,6 +1,7 @@
 # Ricky and Morty API - Aplicação Web
 
-![rickandmorty](https://github.com/IgorAraujooo/RickAndMorty-API/assets/123735950/fee5977a-43d4-4c18-bcac-460ce31fa7e9)
+![rickandmorty](https://github.com/IgorAraujooo/RickAndMorty-API2/assets/123735950/af94d75a-2a3b-4dc5-a52e-2c02a2ecbbba)
+
 
 ## Sobre
 
