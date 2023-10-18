@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <title>Ricky and Morty - API</title>
+</head>
+
+<body>
+    <header>
+        <img id="logo" src="img/rick and morty logo.png" alt="imagem logo">
+    </header>
+
+    <main class="container">
+        <form class="form" onsubmit="pesquisarPersonagens(event)">
+            <input type="text" name="buscar" id="input" placeholder="Digite o nome do personagem" />
+            <button type="submit">Buscar</button>
+        </form>
+
+        <section class="list" id="list">
+        </section>
+
+        <div class="botoes">
+            <button id="anterior" class="page-button" onclick="paginaAnterior()">Anterior</button>
+            <button id="proximo" class= "page-button" onclick="proximaPagina()">Próximo</button>
+        </div>
+    </main>
+</body>
+</html>
