@@ -22,6 +22,7 @@ Esta é uma aplicação web que utiliza a API de Rick and Morty para pesquisar e
    - Na página inicial, você verá um campo de pesquisa onde pode digitar o nome do personagem que deseja encontrar.
    - Clique no botão "Buscar" para pesquisar personagens que correspondam ao nome digitado.
    - Os resultados da pesquisa serão exibidos como cards na seção de listagem.
+   - Personagens vivos são mostrados com o card colorido, personagens mortos são mostrados com o card preto e branco.
 
 2. **Visualizar Detalhes dos Personagens:**
 
